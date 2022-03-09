@@ -4,10 +4,15 @@
 A list of leetcode questions which can be sorted by metrics such as likes, dislikes, likes-dislikes ratio, acceptance rate and much more which is auto updated on daily basis.
 
 Feel free to suggest any changes by opening an issue.
-## Demo
+## Live URL
 
 https://adityarajput.com/leetcode
   
+## Screenshot
+
+![App Screenshot](https://adityarajput.com/leetcode/leet.png)
+
+    
 ## Acknowledgements
  
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
